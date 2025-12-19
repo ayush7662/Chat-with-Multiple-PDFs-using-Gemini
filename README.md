@@ -1,10 +1,10 @@
-###📄 Chat with Multiple PDFs using Gemini (Streamlit + LangChain)
+**📄 Chat with Multiple PDFs using Gemini (Streamlit + LangChain)**
 
 An interactive AI-powered PDF Question Answering application built using Streamlit, LangChain, FAISS, and Google Gemini.
 Users can upload multiple PDF documents and ask natural language questions to retrieve accurate answers directly from the document content.
 
 
-##🚀 Features
+**🚀 Features**
 
 📂 Upload multiple PDF files
 
@@ -23,7 +23,7 @@ Users can upload multiple PDF documents and ask natural language questions to re
 
 
 
-##🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 
 | Category               | Technology                       |
@@ -39,7 +39,7 @@ Users can upload multiple PDF documents and ask natural language questions to re
 
 
 
-📦 Dependencies
+**📦 Dependencies**
 
 streamlit
 google-generativeai
@@ -53,7 +53,7 @@ sentence-transformers
 
 
 
-🏗️ Project Architecture
+**🏗️ Project Architecture**
 
 ├── app.py
 ├── faiss_index/
@@ -64,7 +64,7 @@ sentence-transformers
 
 
 
-🔄 Application Workflow
+**🔄 Application Workflow**
 
 
 1️⃣ PDF Upload
@@ -108,7 +108,7 @@ Relevant chunks passed to Gemini LLM
 Context-aware response generated
 
 
-🧠 Core Components Explained
+**🧠 Core Components Explained**
 
 🔹 get_pdf_text()
 
@@ -136,13 +136,13 @@ Stores conversation history
 
 
 
-🔐 Environment Setup
+**🔐 Environment Setup**
 
 Create a .env file:
 
 GOOGLE_API_KEY=your_google_gemini_api_key
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
 
 Step 1: Install Dependencies
 
@@ -182,7 +182,7 @@ Resume or report analysis
 
 Enterprise document intelligence
 
-🧪 Future Improvements
+**🧪 Future Improvements**
 
 Multi-PDF source citation
 
