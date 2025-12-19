@@ -1,4 +1,4 @@
-##📄 Chat with Multiple PDFs using Gemini (Streamlit + LangChain)
+###📄 Chat with Multiple PDFs using Gemini (Streamlit + LangChain)
 
 An interactive AI-powered PDF Question Answering application built using Streamlit, LangChain, FAISS, and Google Gemini.
 Users can upload multiple PDF documents and ask natural language questions to retrieve accurate answers directly from the document content.
